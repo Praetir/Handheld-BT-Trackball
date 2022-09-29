@@ -2,9 +2,9 @@
     Sketch that is an adaptation of the pimoroni trackball's Leonardo trackball example
     and nRF52 hid_mouse example.
 
-    Written by William Schaffer
+    Written by William
     Created: 9/26/2022
-    Last Modified: 9/26/2022
+    Last Modified: 9/29/2022
 */
 
 #include <bluefruit.h>
